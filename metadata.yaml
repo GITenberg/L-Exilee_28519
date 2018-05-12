@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32965'
     url: http://www.gutenberg.org/2009/agents/32965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28519#L-Exilee
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
