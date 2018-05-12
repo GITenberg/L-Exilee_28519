@@ -1,0 +1,25 @@
+_repo: L-Exilee_28519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delly, pseud.
+    gutenberg_agent_id: '32965'
+    url: http://www.gutenberg.org/2009/agents/32965
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28519'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: L'Exilee
+url: http://www.gutenberg.org/ebooks/28519
